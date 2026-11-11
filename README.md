@@ -26,8 +26,3 @@
 
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawadoror786-arch&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
-
----
-### 🐍 GREEN SNAKE:
-
-![Snake](https://github-readme-activity-graph.vercel.app/graph?username=jawadoror786-arch&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=00ff00)
