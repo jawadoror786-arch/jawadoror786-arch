@@ -1,4 +1,4 @@
-![KING BANNER](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=130&section=header&text=MR%20JAWAD&fontSize=40&fontColor=00ff00&desc=SWAT%20CYBER%20SECURITY%20KING&descAlign=50&descAlignY=75&descSize=12)
+![MR JAWAD](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=130&section=header&text=MR%20JAWAD&fontSize=40&fontColor=00ff00&desc=SWAT%20CYBER%20SECURITY%20KING&descAlign=50&descAlignY=75&descSize=12)
 
 # 👑 Mr Jawad | Swat Cyber Security King
 ### ⚡ Hacker from Swat Pakistan
@@ -20,6 +20,14 @@
 ### 👀 PROFILE VIEWS:
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jawadoror786-arch&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge)
-[Stats](https://github-readme-stats.vercel.app/api?username=jawadoror786-arch&show_icons=true&theme=dark&bg_color=000000&text_color=00ff00&icon_color=00ff00&border_color=00ff00)
-[GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadoror786-arch&show_icons=true&theme=radical)
+
+### 📊 KING STATS:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadoror786-arch&show_icons=true&theme=radical)
+
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawadoror786-arch&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
+
+---
+### 🐍 GREEN SNAKE:
+
+![Snake](https://github-readme-activity-graph.vercel.app/graph?username=jawadoror786-arch&theme=github-compact&bg_color=000000&color=00ff00&line=00ff00&point=00ff00)
