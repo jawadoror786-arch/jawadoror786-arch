@@ -23,7 +23,7 @@
 
 ### 📊 KING STATS:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jawadoror786-arch&show_icons=true&theme=radical)
+
 
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawadoror786-arch&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
