@@ -32,7 +32,11 @@
 
 ### 👑 KING OF SWAT CYBER
 ---
-### 👀 PROFILE VIEWS - KING KO KITNO NE DEKHA:
+### 📊 KING STATS:
+
+[Stats](https://github-readme-stats.vercel.app/api?username=jawador786&show_icons=true&theme=dark&bg_color=000000&text_color=00ff00&icon_color=00ff00&border_color=00ff00)
+
+[Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawador786&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=jawador786-arch&label=PROFILE+VIEWS&color=00ff00&style=for-the-badge)
 
