@@ -1,4 +1,4 @@
-![MR JAWAD](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=130&section=header&text=MR%20JAWAD&fontSize=40&fontColor=00ff00&desc=SWAT%20CYBER%20SECURITY%20KING&descAlign=50&descAlignY=75&descSize=12)
+ JAWAD](https://capsule-render.vercel.app/api?type=waving&color=0:00ff00,100:003300&height=130&section=header&text=MR%20JAWAD&fontSize=40&fontColor=00ff00&desc=SWAT%20CYBER%20SECURITY%20KING&descAlign=50&descAlignY=75&descSize=12)
 
 # 👑 Mr Jawad | Swat Cyber Security King
 
@@ -47,4 +47,4 @@
 ![Streak](https://github-readme-streak-stats.herokuapp.com/?user=jawador786-arch&theme=dark&background=000000&ring=00ff00&fire=00ff00&currStreakLabel=00ff00&sideNums=00ff00&sideLabels=00ff00&dates=ffffff)
 
 ---
-### 👑 FOLLOW THE KING:
+### 👑 FOLLOW THE
